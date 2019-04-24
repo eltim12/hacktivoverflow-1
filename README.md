@@ -51,6 +51,6 @@ Access the Client side via http://localhost:8080/.
 
 online:
 
-Server side: <http://stackoverflow-server.michaeltim.com//>
+Server side: <http://stackoverflow-server.michaeltim.com/>
 
 Client side: <http://stackoverflow.michaeltim.com/>
